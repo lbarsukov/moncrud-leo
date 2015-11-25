@@ -10,6 +10,9 @@ with server-side search, sorting and pagination, and, of course, custom actions.
 
 It is very easy to implement and set up this engine!
 
+
+<a href='https://github.com/lbarsukov/moncrud-leo'>https://github.com/lbarsukov/moncrud-leo</a>
+
 <style>
 	tag{
 		padding:2px;

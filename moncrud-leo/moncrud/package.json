@@ -1,7 +1,7 @@
 {
   "name": "moncrud-leo",
-  "version": "0.1.14",
-  "description": "MongoDB+Mongoose CRUD handler",
+  "version": "0.1.17",
+  "description": "MongoDB+Mongoose CRUD handler. Designed to help reduce the amount of code needded to add simple create/update/read/delete AJAX calls.",
   "main": "moncrud.js",
   "author": {
     "name": "Leo",
@@ -11,6 +11,7 @@
     "body-parser": "^1.14.1",
     "body-parser-json": "^1.9.2",
     "express": "3.4.4",
-    "mongoose": "^4.2.6"
+    "mongoose": "^4.2.6",
+    "moment": "^2.10.6"
   }
 }
