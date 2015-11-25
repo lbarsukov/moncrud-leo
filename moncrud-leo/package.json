@@ -1,0 +1,16 @@
+{
+  "name": "moncrud-leo-dev",
+  "version": "0.0.0",
+  "description": "moncrud-leo-dev",
+  "main": "app.js",
+  "author": {
+    "name": "Leo",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "moment": "^2.10.6",
+    "stylus": "*"
+  }
+}

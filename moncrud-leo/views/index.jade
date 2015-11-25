@@ -1,0 +1,20 @@
+﻿extends layout
+
+block content
+	br
+	.jumbotron
+		h1 moncrud-leo
+		p.lead Development envoironment for MongoDB Crud engine with DataTables support and pagination
+		p
+			a.btn.btn-primary.btn-large(href='#coming-later') Learn more &raquo;
+	.row
+		.col-md-12
+			div.data-tables
+				table.table.dt.users
+					thead
+						tr
+							td First Name
+							td Last Name
+							td Email
+							td Date Created
+							td Date Updated
